@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm chelseawimmblson772
 
-<!--
-**chelseawimmblson772/chelseawimmblson772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎽 🏑 🎤 A beginner in databases 🎽 🏑 🎤
 
-Here are some ideas to get you started:
+## About Me
+🎯 🏏 🎵 🚴 Looking to collaborate on startup culture 🎯 🏏 🎵 🚴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚴 🌍 🎷 Curious about internet of things 🚴 🌍 🎷
+
+### Fun Facts
+🚣 🚴 🎮 🎮 A freak in UI/UX design 🚣 🚴 🎮 🎮
+
+---
+🎻 🏸 🥋 🎤 🚴 Thanks for visiting my profile! 🏸 🎱 🌟 🎺 🎽
